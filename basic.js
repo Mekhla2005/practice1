@@ -8,4 +8,3 @@ if (ascii >= 65 && ascii <= 90) {
 else if (ascii >= 97 && ascii <= 122) {
     console.log("Small letter");
 }
-nnnk
